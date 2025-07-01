@@ -19,3 +19,8 @@
 - [Apple 앱스토어 바로가기](https://apps.apple.com/kr/app/%EB%B0%A9%ED%95%99%EC%88%99%EC%A0%9C-%EC%84%A0%EC%83%9D%EB%8B%98ai%EC%99%80%EC%9D%98-%EC%9D%BC%EA%B8%B0/id6747587236)
 
 </br>
+</br>
+
+## Repo.
+- [Backend Repository 바로가기 (developed by 서현)](https://github.com/Vacation-Homework/backend)
+- [App Repository 바로가기 (developed by 서현](https://github.com/Vacation-Homework/app)
