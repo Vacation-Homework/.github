@@ -23,4 +23,4 @@
 
 ## Repo.
 - [Backend Repository 바로가기 (developed by 서현)](https://github.com/Vacation-Homework/backend)
-- [App Repository 바로가기 (developed by 서현](https://github.com/Vacation-Homework/app)
+- [App Repository 바로가기 (developed by 서현)](https://github.com/Vacation-Homework/app)
